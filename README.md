@@ -1,4 +1,4 @@
-# Biological-signbal-processing
+# Biological-signal-processing
 
 The project mainly consists of three stages in which the first stage is the pre-processing of the MRI data 
 set followed by designing and implementing the General Linear Model (GLM). Finally, the experiment 
